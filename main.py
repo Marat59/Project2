@@ -1,3 +1,3 @@
 def too():
-    pass
+    return True
 print("how")
